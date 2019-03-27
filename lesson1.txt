@@ -1,4 +1,4 @@
-lesson 1 创建版本库 repository
+创建版本库 repository
 1、creat a repository:
 	'mkdir XXXXXXXX //创建一个子目录
 	cd XXXXXXXX
